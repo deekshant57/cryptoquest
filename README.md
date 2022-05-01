@@ -5,7 +5,7 @@ Crypto Quest is a handy and real time crypto currency tracking app which allows 
 
 ---
 
-## Technologies we used
+## Technologies 
 <!-- <hr> -->
 - HTML 5 , CSS 3
 - JavaScript ES6
