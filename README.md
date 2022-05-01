@@ -1,7 +1,7 @@
 # Crpyto Quest
 A Crypto Currency Tracker.
 
-Crypto Quest is a handy and real time crypto currency tracking app which allows you to keep you an eye on your favorite crypto currency on the go. It features an easy to read chart which shows the past data upto 365 days i.e a year.  
+Crypto Quest is a handy and real time crypto currency tracking app which allows you to keep an eye on your favorite crypto currency on the go. It features an easy to read chart which shows the past data upto 365 days i.e a year.  
 
 ---
 
